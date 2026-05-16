@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999616068022",
+    "project_id": "blastsafe-f94af",
+    "storage_bucket": "blastsafe-f94af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999616068022:android:5f2430d9f5a938bf3aa917",
+        "android_client_info": {
+          "package_name": "com.example.blastsafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqMmc5NLtWvU2gePEu5Yp1a8sDqycgEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
