@@ -1,3 +1,6 @@
 # blastsafe
 
-A new Flutter project.
+Aplikasi sistem informasi banjir
+
+Ketua Kelompok 
+Alvin Azrian Fajar Irawan
