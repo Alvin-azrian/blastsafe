@@ -2,5 +2,6 @@
 
 Aplikasi sistem informasi banjir
 
-Ketua Kelompok 
+Ketua Kelompok :
+
 Alvin Azrian Fajar Irawan
